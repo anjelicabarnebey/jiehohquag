@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haingaiwo.teslaa.net/sitemap.xml
